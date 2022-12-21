@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngodson111&layout=compact&exclude_repo=github-readme-stats)"/>
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=ngodson111"/>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ngodson111&theme=horizon"/>
 
 <img align="left" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
